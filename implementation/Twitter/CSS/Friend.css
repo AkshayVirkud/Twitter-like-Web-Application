@@ -1,0 +1,20 @@
+﻿body {
+background-image: url('../Images/Background_Clouds_Pattern.jpg');
+} 
+
+.mainFriendPageTable
+{
+	width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+}
+
+.friendTableContent
+{
+	background-color: #FFFFFF;  
+}
+
+#tblFollow
+{
+	background-color: #FFFFFF;  
+}

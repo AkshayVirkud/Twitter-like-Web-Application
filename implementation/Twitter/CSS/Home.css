@@ -1,0 +1,34 @@
+﻿#tblTweets
+{
+	width: 500px;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+}
+
+body {
+	background-image: url('../Images/Background_Clouds_Pattern.jpg');
+} 
+
+.mainHomePageTable
+{
+	/*padding: 10px;
+	margin: 10px;
+		*/
+	width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+
+.tweetTableContent
+{
+	background-color: #FFFFFF;  
+}
+
+.tweetTableContent tr td {
+    padding: 10px;
+}
+
+#mainHomePageDiv
+{
+	
+}
